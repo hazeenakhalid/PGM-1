@@ -1,2 +1,3 @@
 # PGM-1
-FIRST-FILE
+
+print('Hello, world!')
